@@ -2,7 +2,9 @@
 # It is a simple User-Management web application solely for learning purpose.
 # crdit:@JavaGuides (Youtube)
 
-<!-- Create a User
+# Model View Controller
+<!-- 
+Create a User
 Update a User
 Delete a User
 Retrieve a User
